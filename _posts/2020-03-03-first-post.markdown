@@ -15,6 +15,6 @@ In the upcoming blogs, expect more details of design automation process for NN a
 
 
 ### References 
-* <a name="alexnet"></a>[ImageNet Classification with Deep ConvolutionalNeural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
-* <a name="resnet"></a>[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
-* <a name="proto"></a>[Introduction to protocol buffers](https://developers.google.com/protocol-buffers/docs/overview)
+* <a name="alexnet" target="_blank"></a>[ImageNet Classification with Deep ConvolutionalNeural Networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+* <a name="resnet" target="_blank"></a>[Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
+* <a name="proto" target="_blank"></a>[Introduction to protocol buffers](https://developers.google.com/protocol-buffers/docs/overview)
