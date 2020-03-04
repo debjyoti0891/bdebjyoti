@@ -2,7 +2,8 @@
 layout: post
 title:  "Welcome to my blog"
 date:   2020-03-04 17:32:56 +0100
-categories: introduction ai ml eda pytorch
+categories: eda 
+tags: introduction ai ml eda pytorch
 ---
 
 My keen interest in hardware technologies, coupled with my background in computer science, has driven me to pursue research in the direction of design automation algorithms and tools for architectures, for a variety of technologies. Recently, I am learning about the state-of-the-art in Deep Neural Networks~(NN) and understanding the NN strutures ([Alexnet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf){:target="_blank"}, [Resnet](https://arxiv.org/abs/1512.03385){:target="_blank"}, etc). 
