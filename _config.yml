@@ -37,6 +37,7 @@ disqus:
 
 header_pages:
   - about.markdown
+  - publications.markdown
   - resources.markdown
 
 # Exclude from processing.
