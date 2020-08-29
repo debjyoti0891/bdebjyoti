@@ -38,6 +38,7 @@ disqus:
 header_pages:
   - about.markdown
   - publications.markdown
+  - blog.markdown
   - resources.markdown
 
 scholar:
