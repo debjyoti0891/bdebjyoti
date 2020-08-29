@@ -4,7 +4,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Welcome to my blog | Debjyoti Bhattacharjee</title>
-<meta name="generator" content="Jekyll v3.8.5" />
+<meta name="generator" content="Jekyll v3.9.0" />
 <meta property="og:title" content="Welcome to my blog" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="My keen interest in hardware technologies, coupled with my background in computer science, has driven me to pursue research in the direction of design automation algorithms and tools for architectures, for a variety of technologies. Recently, I am learning about the state-of-the-art in Deep Neural Networks~(NN) and understanding the NN strutures (Alexnet, Resnet, etc)." />
@@ -15,7 +15,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2020-03-04T17:32:56+01:00" />
 <script type="application/ld+json">
-{"@type":"BlogPosting","headline":"Welcome to my blog","dateModified":"2020-03-04T17:32:56+01:00","datePublished":"2020-03-04T17:32:56+01:00","url":"http://localhost:4000/bdebjyoti/eda/2020/03/04/first-post.html","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/bdebjyoti/eda/2020/03/04/first-post.html"},"description":"My keen interest in hardware technologies, coupled with my background in computer science, has driven me to pursue research in the direction of design automation algorithms and tools for architectures, for a variety of technologies. Recently, I am learning about the state-of-the-art in Deep Neural Networks~(NN) and understanding the NN strutures (Alexnet, Resnet, etc).","@context":"https://schema.org"}</script>
+{"headline":"Welcome to my blog","dateModified":"2020-03-04T17:32:56+01:00","datePublished":"2020-03-04T17:32:56+01:00","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/bdebjyoti/eda/2020/03/04/first-post.html"},"url":"http://localhost:4000/bdebjyoti/eda/2020/03/04/first-post.html","description":"My keen interest in hardware technologies, coupled with my background in computer science, has driven me to pursue research in the direction of design automation algorithms and tools for architectures, for a variety of technologies. Recently, I am learning about the state-of-the-art in Deep Neural Networks~(NN) and understanding the NN strutures (Alexnet, Resnet, etc).","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/bdebjyoti/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/bdebjyoti/feed.xml" title="Debjyoti Bhattacharjee" /></head>
 <body><header class="site-header" role="banner">
@@ -30,7 +30,7 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/bdebjyoti/about/">About</a><a class="page-link" href="/bdebjyoti/resources/">Resources</a></div>
+        <div class="trigger"><a class="page-link" href="/bdebjyoti/research/">Research</a><a class="page-link" href="/bdebjyoti/pub/">Publications</a><a class="page-link" href="/bdebjyoti/blog/">Blog</a><a class="page-link" href="/bdebjyoti/resources/">Resources</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
@@ -39,8 +39,8 @@
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">Welcome to my blog</h1>
-    <p class="post-meta">
-      <time class="dt-published" datetime="2020-03-04T17:32:56+01:00" itemprop="datePublished">Mar 4, 2020
+    <p class="post-meta"><time class="dt-published" datetime="2020-03-04T17:32:56+01:00" itemprop="datePublished">
+        Mar 4, 2020
       </time></p>
   </header>
 
