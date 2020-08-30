@@ -4,19 +4,19 @@
 <button class="button0"  onclick="toggleBibtex{{entry.key}}()">Bibtex</button>
  
 {% if entry.doi %}
-    <a href="{{ entry.doi | prepend: 'http://doi.org/' }}"><input class="button1" type="button" value="doi" /></a>
+    <a href="{{ entry.doi | prepend: 'http://doi.org/' }}" target="_blank"><input class="button1" type="button" value="Paper" /></a>
 {% endif %}
  
 {% if entry.preprint %}
-    <a href="{{ entry.preprint }}"><input class="button2" type="button" value="preprint" /></a>
+    <a href="{{ entry.preprint }}" target="_blank"><input class="button2" type="button" value="Preprint" /></a>
 {% endif %}
  
 {% if entry.link %}
-    <a href="{{ entry.link }}"><input class="button4" type="button" value="link" /></a>
+    <a href="{{ entry.link }}" target="_blank"><input class="button4" type="button" value="PDF" /></a>
 {% endif %}
  
 {% if entry.code %}
-    <a href="{{ entry.code }}"><input class="button3" type="button" value="code" /></a>
+    <a href="{{ entry.code }}" target="_blank"><input class="button3" type="button" value="Code" /></a>
 {% endif %}
 <div id="a{{entry.key}}" style="display: none;">
 <pre>{{entry.bibtex}}</pre>

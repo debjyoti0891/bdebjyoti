@@ -19,13 +19,18 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Debjyoti Bhattacharjee
-email: debjyoti [dot] bhattacharjee [at] imec [dot] com
+author:
+  email: debjyoti [dot] bhattacharjee [at] imec [dot] com
+  name: Debjyoti Bhattacharjee
 description: >- 
   Personal blog of Debjyoti Bhattacharjee.  Snapshots of ideas and things that piqued my interest. 
 baseurl: "/bdebjyoti" # the subpath of your site, e.g. /blog
 url: "https://debjyoti0891.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
-github_username:  debjyoti0891
+minima:
+  social_links:
+    instagram: debjyoti0891
+    github:  debjyoti0891
+    linkedin: debjyotibhattacharjee
 
 # Build settings
 theme: minima
@@ -37,6 +42,7 @@ disqus:
 
 header_pages:
   - about.markdown
+  - research.markdown
   - publications.markdown
   - blog.markdown
   - resources.markdown

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resources
-permalink: /resources/
+title: Tools
+permalink: /tools/
 ---
 * #### Command line programs
     * _ABC_ : ABC is a popular tool in the design automation community. It provides a comphrensive command line system for logic synthesis as well as verification.
